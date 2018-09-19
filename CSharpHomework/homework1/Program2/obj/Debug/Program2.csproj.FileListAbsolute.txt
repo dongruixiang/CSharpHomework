@@ -7,3 +7,6 @@ E:\CSharpHomework\homework1\homework1\Program2\obj\Debug\Program2.Properties.Res
 E:\CSharpHomework\homework1\homework1\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
 E:\CSharpHomework\homework1\homework1\Program2\obj\Debug\Program2.exe
 E:\CSharpHomework\homework1\homework1\Program2\obj\Debug\Program2.pdb
+E:\C#\CSharpHomework\homework1\Program2\bin\Debug\Program2.exe.config
+E:\C#\CSharpHomework\homework1\Program2\obj\Debug\Program2.exe
+E:\C#\CSharpHomework\homework1\Program2\obj\Debug\Program2.pdb
